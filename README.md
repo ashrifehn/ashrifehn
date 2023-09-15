@@ -5,10 +5,8 @@ I am a double major in Data Analytics and Economics. I am a full-time student at
 ## 🛠 Skills
  **Programming Languages:** 
 - Python, R, SQL, SQLite3
-
 **Software Proficiency:** 
 - Anaconda, R-Studio, GitHub, Tableau Desktop, Tableau Server, Power BI, Office365, Power Automate Desktop/Cloud, Microsoft Power Apps
-
 **Technical Expertise:** 
 - Data & Analytics, Investing, Supply Chain & Logistics, Operations & Manufacturing, Automation, Process Mining, Problem Solving, Optimization
 <!--
