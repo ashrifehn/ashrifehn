@@ -1,16 +1,18 @@
 ### Hi, my name is Noor 👋
 
-I am a double major in Data Analytics and Economics. I am a full-time student at Denison University, always trying to use analytics to solve problems and find the optimal solution. Hoping to land a job where I can use my analytical skills to develop analytic solutions/strategies for the business and use data analytics and automation to create more efficient workflows.
+Denison University undergrad Data Analytics and Economics. I get use my AI/ML skills to develop solutions for real-world problems. Always trying to use programming to develope automation solutions to make life easier.  
 
-## 🛠 Skills
- **Programming Languages:** 
-- Python, R, SQL, SQLite3
+
+## 🛠 Technical Skills
+ **Programming Languages & Methodologies:** 
+- Python, R, SQL, SQLite3, Data & Analytics, Automation Solutions, Problem Solving, Optimization, Prescriptive Analytics, NLP, Text Classification, Deep Learning, Image Clustering & Classification
   
 **Software Proficiency:** 
-- Anaconda, R-Studio, GitHub, Tableau Desktop, Tableau Server, Power BI, Office365, Power Automate Desktop/Cloud, Microsoft Power Apps
+- Anaconda, R-Studio, GitHub, Tableau Desktop, Tableau Server, Power BI, Office365, Power Automate Desktop/Cloud, Microsoft Power Apps, SSMS
 
-**Technical Expertise:** 
-- Data & Analytics, Investing, Supply Chain & Logistics, Operations & Manufacturing, Automation, Process Mining, Problem Solving, Optimization
+**Currently learning:** 
+- MCP, fine tuning local models, AI Agents, RAG, and more
+  
 <!--
 **ashrifehn/ashrifehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
