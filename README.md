@@ -1,6 +1,6 @@
 ### Hi, my name is Noor 👋
 
-Denison University undergrad Data Analytics and Economics. I get use my AI/ML skills to develop solutions for real-world problems. Always trying to use programming to develope automation solutions to make life easier.  
+Denison University undergrad- Data Analytics and Economics. I get use my AI/ML skills to develop solutions for real-world problems. Always trying to use programming to develope automation solutions to make life easier.  
 
 
 ## 🛠 Technical Skills
